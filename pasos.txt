@@ -1,0 +1,18 @@
+instalar package.json
+
+    npm init -y
+
+instalar express cors dotenv
+
+    npm i express cors dotenv
+
+instalar  socket io (el express para sockets)
+    npm i socket.io
+
+
+http://localhost:8080/socket.io/socket.io.js   -> url del servidor de socket
+
+
+Eliminar node_modules
+    git rm -rf node_modules --cached
+
